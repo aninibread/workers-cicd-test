@@ -1,4 +1,4 @@
-name = "" # todo
+name = "aug-21-2024-cicd-test" # todo
 main = "src/index.ts"
 compatibility_date = "2022-05-18"
 
