@@ -1,4 +1,4 @@
-name = "frosty-rice-c068" # todo!!!
+name = "frosty-rice-c068" # todo!
 main = "src/index.ts"
 compatibility_date = "2022-05-18"
 
