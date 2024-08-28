@@ -1,4 +1,4 @@
-# Template: worker-example-wordlesssssssss
+# Template: worker-example-wordlesssssssssddd
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/worker-example-wordle)
 
